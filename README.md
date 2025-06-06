@@ -1,3 +1,3 @@
-# CSE134B-SS20-HW1
+# CSE134B-<TermInfo>-HW1
 # Name:
 # PID:
